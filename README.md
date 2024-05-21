@@ -39,6 +39,7 @@
 | BarkApi       |  No      |      | Bark通知的key  |
 | X-XSRF-Token  |  Yes     |      | 自行通过抓包获取 |
 | Cookie        |  Yes     |      | 自行通过抓包获取 |
+| ServerIDList  |  NO      |      | 自行通过抓包获取 |
 | renewflag     |  Yes     | true | 是否自动续期    |
 
 8. 转到“Console”页面，点击“Start”按钮，即可食用。
