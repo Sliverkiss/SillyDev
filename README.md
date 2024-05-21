@@ -1,4 +1,4 @@
-# SillyDev
+c# SillyDev
 在 Silly 上部署 ```Node服务``` 自动获取```Silly Development```积分、兑换资源及自动续期。如果本项目对你有所帮助的话，不妨点个Star⭐️
 
 ### 一、准备材料 
@@ -25,3 +25,10 @@
 <img width="600px" src="https://pic2.ziyuan.wang/user/tistzach/2024/05/cscs_7af98b9c3de65.png" alt="cscs.png" title="cscs.png" />
 
 5. 等待服务器安装的时候，可以将本仓库的内容下载项目文件下来。
+
+<img width="600px" src="https://pic2.ziyuan.wang/user/tistzach/2024/05/xaa_61e0582615189.png" alt="xaa.png" title="xaa.png" />
+
+6. 将除了 ```README.md``` 和 ```LICENSE``` 文件外的所有文件，上传至服务器上
+
+
+
