@@ -1,4 +1,4 @@
-c# SillyDev
+# SillyDev
 在 Silly 上部署 ```Node服务``` 自动获取```Silly Development```积分、兑换资源及自动续期。如果本项目对你有所帮助的话，不妨点个Star⭐️
 
 ### 一、准备材料 
@@ -30,5 +30,16 @@ c# SillyDev
 
 6. 将除了 ```README.md``` 和 ```LICENSE``` 文件外的所有文件，上传至服务器上
 
+<img width="600px" src="https://pic2.ziyuan.wang/user/tistzach/2024/05/rgrg_addca11d29d2c.png" alt="rgrg.png" title="rgrg.png" />
 
+7. 根据下面表格信息，修改```conf.json```内容
+
+|  变量名        | 是否必须 | 默认 |  备注          |
+| :----:        | :--:     |:--:  | -------:       | 
+| BarkApi       |  No      |      | Bark通知的key  |
+| X-XSRF-Token  |  Yes     |      | 自行通过抓包获取 |
+| Cookie        |  Yes     |      | 自行通过抓包获取 |
+| renewflag     |  Yes     | true | 是否自动续期    |
+
+8. 转到“Console”页面，点击“Start”按钮，即可食用。
 
