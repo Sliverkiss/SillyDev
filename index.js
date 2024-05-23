@@ -19,7 +19,8 @@ bot.onText(/\/help/, (msg) => {
         "Available commands:\n" +
         "/info - 查看Silly个人信息\n" +
         "/server - 查看当前服务器信息\n" +
-        "/renew - 服务器续期"
+        "/renew - 服务器续期\n"+
+        "/resources - 兑换服务器资源"
     );
 });
 
