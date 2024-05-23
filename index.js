@@ -5,7 +5,6 @@ const SERVER = process.env.SERVER_IP;
 const PORT = process.env.SERVER_PORT;
 const app = express();
 
-//const tgBotToken = '6581324720:AAEypVVSNAanoEd6cuO5foqMEuHJyg0FJlc';
 const bot = new TelegramBot(tgBotToken, { polling: true });
 
 bot.onText(/\/start/, (msg) => {
