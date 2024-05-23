@@ -1,5 +1,5 @@
 # SillyDev
-在 Silly 上部署 ```Node服务``` 自动获取```Silly Development```积分、兑换资源及自动续期。如果本项目对你有所帮助的话，不妨点个Star⭐️
+在 Silly 上部署 ```Node服务``` 自动获取```Silly Development```积分、并通过telegram bot管理信息、兑换资源及服务器续期。如果本项目对你有所帮助的话，不妨点个Star⭐️
 
 ### 一、准备材料 
 
