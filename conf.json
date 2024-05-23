@@ -1,7 +1,5 @@
 {
-  "BarkApi":"",
-"X-XSRF-Token":"",
-  "Cookie":"",
-  "ServerIDList":[],
-  "renewflag":true
+  "tgBotToken":"",
+  "X-XSRF-Token":"",
+  "Cookie":""
 }
