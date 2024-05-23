@@ -36,11 +36,21 @@
 
 |  变量名        | 是否必须 | 默认 |  备注          |
 | :----:        | :--:     |:--:  | -------:       | 
-| BarkApi       |  No      |      | Bark通知的key  |
+| tgBotToken    |  Yes      |      | 可以通过bot来管理面板  |
 | X-XSRF-Token  |  Yes     |      | 自行通过抓包获取 |
 | Cookie        |  Yes     |      | 自行通过抓包获取 |
-| ServerIDList  |  NO      |      | 自行通过抓包获取 |
-| renewflag     |  Yes     | true | 是否自动续期    |
+
+> Bot指令如下：
+
+|  命令        | 说明 |
+| :----:        | :--:     |
+| ```/start```    |  开始      |
+| ```/help```  |  查看菜单     |
+| ```/info```        |  查看Silly个人信息     |
+| ```/server```  |  查看当前服务器信息     |
+| ```/renew```  |  服务器续期     |
+| ```/resources```  |  兑换服务器资源     |
+
 
 8. 转到“Console”页面，点击“Start”按钮，即可食用。
 
